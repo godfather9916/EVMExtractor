@@ -1,4 +1,4 @@
-# EVMExtractor - Highly efficient software for auto-withdrawal of coins and tokens from more than 10 million wallets on EVM
+# EVMExtractor - Auto-withdrawal of coins and tokens from more than 10 million wallets on EVM
 
 
 
@@ -21,7 +21,6 @@ Ease of integration and use: Simple installation and use process, even for users
 Token support: Full support for various tokens, parsing via CoinGecko, whitelist support.
 
 
-Price : $500
 
 
 **Contact: [@rashtug0](https://t.me/rashtug0)**
