@@ -6,7 +6,7 @@
 High speed: EVMExtractor pre-caches private keys into addresses at 5,000 addresses per second, then tracks new blocks and wallet transfers at up to 60 million addresses per second.
 
 
-Large Wallet Support: Ability to process and track over 10 million wallets, ensuring reliable monitoring and instant asset withdrawals.
+Large Wallet Support: Ability to process and track over 10 million wallets, ensuring reliable monitoring and instant asset withdrawal.
 
 
 Working with donor wallet: Support for donor wallet function to automate transfer of native coin to pay commission.
